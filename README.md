@@ -4,15 +4,14 @@
 - Design NavbaR
 - Routing of App
 - Design Home Page
-- 
 - Design New Registration Form
 - Design Already registered Form
 - Implement Register user API
 - Implement Already Registered user API
 - Connected the frontend with the backend
-  
+- 
+- ![Screenshot (382)](https://github.com/whoanujyadav/YogoClasses-Website/assets/91775250/e30a10bd-e654-4712-9711-ce062c3e2039) 
 - ![Screenshot (383)](https://github.com/whoanujyadav/YogoClasses-Website/assets/91775250/458c691f-ce00-4f9e-8971-08da2a7d60af)
-- ![Screenshot (382)](https://github.com/whoanujyadav/YogoClasses-Website/assets/91775250/e30a10bd-e654-4712-9711-ce062c3e2039)
 ![Screenshot (384)](https://github.com/whoanujyadav/YogoClasses-Website/assets/91775250/d5c1f3c6-da79-415a-b0a6-40c199d3288d)
 
 
